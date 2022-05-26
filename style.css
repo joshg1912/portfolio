@@ -1,10 +1,11 @@
-body{
-    margin-left: 7vw;
-    margin-right: 7vw;
+body {
+   background-color: black;
 }
 .navigation {
     display: flex;
     justify-content: space-between;
+    margin-left: 7vw;
+    margin-right: 7vw;
 }
 
 .nav-links {
